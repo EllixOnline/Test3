@@ -1,14 +1,11 @@
 ## Hello
 
 
-This is new first paragraph
+This is a repository of homework for Node.js for PET class 2024
 
-This is new paragraph
+Current content
 
-1. First
-2. 2nd hello
+1. 1.js - Homework
+2. 2.js - Homework
 
-- 1
-- 2
 
-[Google](https://google.com)
